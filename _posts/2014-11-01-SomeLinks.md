@@ -1,17 +1,15 @@
 ---
 layout: post
-title: First meating of the *Reading Group*
+title: First meeting of the *Reading Group*
 ---
 
 
-List of the readings we had with Toby to invite them for the academic year 2014/2015. 
+List of the readings we had with Toby to invite newcomers for the academic year 2014/2015. 
 
 
 ## Second meeting: 16 August 2014 at 6.30 pm 
-
-Participants: Néhémie, Toby, Vera
-
-Where: Toby's home in Fatih
+Participants: Néhémie, Toby, Vera. 
+Where: Toby's home in Fatih. 
 
 Readings:
 
@@ -23,10 +21,8 @@ Readings:
 
 
 ## First meeting: Thursday 3 July at 6 pm
-
-Participants: Néhémie, Toby
-
-Where: Toby's home in Fatih
+Participants: Néhémie, Toby.
+Where: Toby's home in Fatih.
 
 Readings: 
 
