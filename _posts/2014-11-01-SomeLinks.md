@@ -13,17 +13,16 @@ Readings:
 
 <body>
 <dl>
-<dt>incollection <a name="Gell1992">(Gell1992)</a></dt>
-<dd>Gell, A.</dd>
-<dd><i>The Technology of Enchantment and the Enchantment of Technology</i></dd>
-<dd>Coote, J. &amp; Shelton, A. <i>(ed.)</i></dd>
-<dd>Anthropology, art, and aesthetics</dd>
-<dd>Clarendon, <b>1992</b>, pp. 44-60</dd>
+<dt> <a name="Gell1992">(Gell1992)</a></dt>
+Gell, A. <i>The Technology of Enchantment and the Enchantment of Technology</i>
+Coote, J. &amp; Shelton, A. <i>(ed.)</i>
+Anthropology, art, and aesthetics
+Clarendon, <b>1992</b>, pp. 44-60
 
 <dt>article <a name="Pfaffenberger1992">(Pfaffenberger1992)</a></dt>
-<dd>Pfaffenberger, B.</dd>
-<dd><i>Social Anthropology of Technology</i></dd>
-<dd>Annual Review of Anthropology, <b>1992</b>, Vol. 21(1), pp. 491-516</dd>
+Pfaffenberger, B.
+<i>Social Anthropology of Technology</i>
+Annual Review of Anthropology, <b>1992</b>, Vol. 21(1), pp. 491-516
 
 </dl>
 </body>
