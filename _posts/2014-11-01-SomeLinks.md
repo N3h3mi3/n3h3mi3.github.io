@@ -4,18 +4,29 @@ title: Some readings
 ---
 
 
-Before I completly forgot, I wanted to make a small sum up about the readings I had with Toby C. Wilkinson
+Listing of the readings with Toby C. Wilkinson
 
-## First Meeting: Thursday 3 July at 6 pm
+## First meeting: Thursday 3 July at 6 pm
 
 Participants: Néhémie, Toby
 Readings: 
 
-  - [Gell1992](http://www.utexas.edu/courses/arh400/lectures/301/Text3.pdf)
-Gell, A. *The Technology of Enchantment and the Enchantment of Technology*, in Coote, J. & Shelton, A. *(ed)* Anthropology, art, and aesthetics, Clarendon, 1992, 44--60
+  - [Gell A. 1992](http://www.utexas.edu/courses/arh400/lectures/301/Text3.pdf),
+ *The Technology of Enchantment and the Enchantment of Technology*, in Coote, J. & Shelton, A. (ed), Anthropology, art, and aesthetics, Clarendon, 1992, 44--60
 
-  - [Pfaffenberger1992](http://dx.doi.org/10.1146/annurev.an.21.100192.002423)
-Pfaffenberger, B. *Social Anthropology of Technology*, Annual Review of Anthropology, 1992, 21(1), 491--516
+  - [Pfaffenberger B. 1992](http://dx.doi.org/10.1146/annurev.an.21.100192.002423),
+*Social Anthropology of Technology*, Annual Review of Anthropology, 1992, 21(1), 491--516
 
+
+## Second meeting:
+
+Participants: Néhémie, Toby
+Readings:
+
+  - **Sherratt A and Sherratt S. 1991**,
+ *From luxuries to commodities: the nature of Mediterranean Bronze Age trading systems.* in N.H. Gale (ed.), Bronze Age Trade in the Mediterranean, 351--86
+
+  - **Graeber D. 2001**, 
+ Toward An Anthropological Theory of Value: The False Coin of Our Own Dreams, 2001
 
 
