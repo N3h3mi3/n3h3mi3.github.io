@@ -5,12 +5,12 @@ relative_permalinks: true
 # Setup
 title:            Néhémie Strupler
 tagline:          My homepage
-url:              https://github.com/N3h3mi3/n3h3mi3.github.io/
+url:              http://n3h3mi3.github.io/
 paginate:         1
 baseurl:          /
 author:
   name:           Néhémie Strupler
-  url:            https://example.com
+  url:            http://n3h3mi3.github.io/
   email:          strupler@unistra.fr
 # Custom vars
 version:          1.0.0
