@@ -4,8 +4,8 @@ relative_permalinks: true
 
 # Setup
 title:            Néhémie Strupler
-tagline:          My Home Page
-url:              http://getpoole.com
+tagline:          My homepage
+url:              https://github.com/N3h3mi3/n3h3mi3.github.io
 paginate:         1
 baseurl:          /
 author:
