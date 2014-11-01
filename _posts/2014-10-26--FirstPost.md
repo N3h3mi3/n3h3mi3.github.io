@@ -11,6 +11,6 @@ For one year I am following [R-bloggers](http://www.r-bloggers.com/) and I love 
 I hope I will use this blog for :
 
   - Explain on-going thinking for my PhD
-  - Share ideas and papers for my **reading group** with [Toby Wilkison](http://tobywilkinson.co.uk/)
+  - Share ideas and papers for my *reading group* with [Toby C. Wilkinson](http://tobywilkinson.co.uk/)
   - Link and publish some of my data
   - Learning by doing transparent research
