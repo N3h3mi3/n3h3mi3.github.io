@@ -13,13 +13,14 @@ Readings:
 
 <body>
 <dl>
-<dt> <a name="Gell1992">(Gell1992)</a></dt>
+[Gell 1992](http://www.utexas.edu/courses/arh400/lectures/301/Text3.pdf)
+
 Gell, A. <i>The Technology of Enchantment and the Enchantment of Technology</i>
 Coote, J. &amp; Shelton, A. <i>(ed.)</i>
 Anthropology, art, and aesthetics
 Clarendon, <b>1992</b>, pp. 44-60
 
-<dt>article <a name="Pfaffenberger1992">(Pfaffenberger1992)</a></dt>
+[Pfaffenberger 1992](http://dx.doi.org/10.1146/annurev.an.21.100192.002423)
 Pfaffenberger, B.
 <i>Social Anthropology of Technology</i>
 Annual Review of Anthropology, <b>1992</b>, Vol. 21(1), pp. 491-516
