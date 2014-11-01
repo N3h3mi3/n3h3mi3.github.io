@@ -7,7 +7,7 @@ title:            Néhémie Strupler
 tagline:          My homepage
 url:              https://github.com/N3h3mi3/n3h3mi3.github.io/
 paginate:         1
-baseurl:          https://raw.githubusercontent.com/N3h3mi3/n3h3mi3.github.io/master/
+baseurl:          /
 author:
   name:           Néhémie Strupler
   url:            https://example.com
