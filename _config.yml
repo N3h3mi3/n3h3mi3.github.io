@@ -5,9 +5,9 @@ relative_permalinks: true
 # Setup
 title:            Néhémie Strupler
 tagline:          My homepage
-url:              https://github.com/N3h3mi3/n3h3mi3.github.io
+url:              https://github.com/N3h3mi3/n3h3mi3.github.io/
 paginate:         1
-baseurl:          /
+baseurl:          https://github.com/N3h3mi3/n3h3mi3.github.io/
 author:
   name:           Néhémie Strupler
   url:            https://example.com
@@ -15,7 +15,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           github.com/n3h3mi3/n3h3mi3.github.io
+  repo:           https://github.com/N3h3mi3/n3h3mi3.github.io
 
 
 # This is the list of pages to include in the header of the website.
