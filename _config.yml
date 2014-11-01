@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Néhémie Strupler
 tagline:          My homepage
-url:              http://n3h3mi3.github.io/
+url:              http://n3h3mi3.github.io
 paginate:         1
 baseurl:          /
 author:
