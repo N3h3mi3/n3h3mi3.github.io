@@ -12,4 +12,7 @@ Have questions or suggestions? Feel free to [ask me via mail](mailto:nehemie.str
 Thanks for reading!
 
 *****
+Site generated thanks to [Joshua Lande](http://joshualande.com/) and [his repository](http://joshualande.com/jekyll-github-pages-poole/) using [poole](https://github.com/poole/poole), which I just forked on [Github](https://github.com/N3h3mi3/n3h3mi3.github.io) 
+
+*****
 Artwork from `Vera Egbers`
