@@ -7,10 +7,17 @@ title: First meetings of the *Reading Group*
 This is a just a *post-it* to remember what we organise with the reading group. It's only my second post and I am already "misusing" my blog.
 
 
+
+
+
 ### Second meeting: Values
 Date: 6 August 2014 at 6.30 pm 
+
 Participants: Néhémie, Toby, Vera. 
+
 Where: Toby's home in Fatih. 
+
+
 
 Readings:
 
@@ -21,10 +28,17 @@ Readings:
  Toward An Anthropological Theory of Value: The False Coin of Our Own Dreams, 2001
 
 
+
+
+
+
 ### First meeting: Technology and Innovation
 Date: Thursday 3 July at 6 pm
+
 Participants: Néhémie, Toby.
+
 Where: Toby's home in Fatih.
+
 
 Readings: 
 
